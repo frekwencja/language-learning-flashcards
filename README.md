@@ -2,7 +2,7 @@
   <h1>🃏 Language Learning Flashcards</h1>
 </div>
 
-- 🏆 **1000 most frequent words**: learn only what you'll really going to use
+- 🏆 **decks**: such as most common words or Oxford's
 - 🔊 **pronunciation**: from different sources, such as [Forvo](https://forvo.com/), [YouGlish](https://youglish.com)
 - 📷 **images**: because a picture is worth a thousand words
 - 🎬 **context**: to trully understand the meaning
