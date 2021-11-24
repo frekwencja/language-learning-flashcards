@@ -1,6 +1,7 @@
 <div align='center'>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards.svg?type=shield"></a>
   <h1>🃏 Language Learning Flashcards</h1>
+  <p><a href="https://github.com/frekwencja/language-learning-flashcards/tree/main/docs/">Docs</a> • <a href="https://github.com/frekwencja/language-learning-flashcards/releases">Releases</a> • <a href="https://github.com/orgs/frekwencja/projects/1">Roadmap</a></p>
 </div>
 
 - 🗃 **decks**: such as most common words or Oxford's
