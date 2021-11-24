@@ -1,4 +1,5 @@
 <div align='center'>
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards.svg?type=shield"></a>
   <h1>🃏 Language Learning Flashcards</h1>
 </div>
 
@@ -11,7 +12,6 @@
 - 🔗 **links**: if you want to know more
 
 ## 🗃 Decks
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards?ref=badge_shield)
 
 1. ### 🏆 Most Common Words
 Start your jorney with a language in most effective way by using this modern and cool method of most frequent words!
