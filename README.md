@@ -1,4 +1,5 @@
 <div align='center'>
+  <p>This is project is in development! <b>👀 Watch</b> if you're interested.</p>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards?ref=badge_shield"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffrekwencja%2Flanguage-learning-flashcards.svg?type=shield"></a>
   <h1>🃏 Language Learning Flashcards</h1>
   <p>Powerful flashcards in many formats for intelligent language learning! </p>
