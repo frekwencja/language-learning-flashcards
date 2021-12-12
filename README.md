@@ -10,7 +10,7 @@
 - 🔊 **pronunciation**: from different sources, such as [Forvo](https://forvo.com/), [YouGlish](https://youglish.com) along with IPA
 - 📷 **images**: because a picture is worth a thousand words
 - 🎬 **context**: to trully understand the meaning (Tatoeba)[https://tatoeba.org]
-- 🌐 **multilingual**: supports `??` languages
+- 🌐 **multilingual**: supports **109** languages
 - 🧾 **details**: part of speech, meaning, plural form and articles
 - 🔗 **links**: if you want to know more
 - 💻 **many formats**: learn on the app you want, whether it's Anki, Quizlet or MemRise
