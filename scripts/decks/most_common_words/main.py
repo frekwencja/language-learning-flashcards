@@ -5,8 +5,8 @@ import time
 import json
 from collections import OrderedDict
 
-# DOWNLOAD_URL = 'https://www.wordfrequency.info/samples/wordFrequency.xlsx'
-DOWNLOAD_URL = 'http://localhost:2137/wordFrequency.xlsx'
+DOWNLOAD_URL = 'https://www.wordfrequency.info/samples/wordFrequency.xlsx'
+
 SELECTED_SHEET_NAME = '1 lemmas'
 SELECTED_COLUMNS = ['lemma', 'PoS']
 LIMIT = 1000
