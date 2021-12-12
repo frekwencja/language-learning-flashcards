@@ -1,7 +1,7 @@
 ```json
 {
   "and": {
-    "translatons": {
+    "translations": {
       "de": ["und"],
       "pl": ["i"]
     },
