@@ -17,8 +17,8 @@
 
 ## 🗃 Decks
 
-1. ### 🏆 Most Common Words
-Start your jorney with a language in most effective way by using this modern and cool method of most frequent words!
+1. ### [🏆 Most Common Words Multilingual](https://github.com/frekwencja/most-common-words-multilingual)
+Start your jorney with a language in most effective way by using this modern and cool method of most frequent words! [📄 More information.](https://github.com/frekwencja/most-common-words-multilingual)
 
 **Source:** [**🌐 www.wordfrequency.info**](https://www.wordfrequency.info)
 
