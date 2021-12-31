@@ -6,7 +6,7 @@ AUDIOURL="http://audio.forvo.com/audios/mp3/"
 word=$1
 lang=$2
 
-path="data/pronunciation/${lang}/${word}.mp3"
+path="data/pronunciation/${lang}/frekwencja_de_${word}.mp3"
 url="${BASEURL}${word}/${lang}"
 
 if test ! -f "$path"; then
