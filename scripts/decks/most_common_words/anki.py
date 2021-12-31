@@ -1,5 +1,7 @@
 import utils
 
+from main import __version__, __dataset__
+
 """Return static id for a deck. It gives ability to update deck in Anki.
 All below doesn't really matter, it just makes decks updatable.
 
@@ -19,3 +21,7 @@ def get_specific_id(questions_language, answers_language, word_index = 0):
   word_index = str(word_index).zfill(GREATEST_SHORTCODE_INDEX_LENGTH)
 
   return int((f'1{question_language_id}{answers_language_id}{word_index}').ljust(REQUIRED_DECK_ID_LENGTH, FILL_WITH))
+
+
+def get_package_name(question_language, answers_language):
+  return f'frekwencja: {__dataset__} v{__version__} {question_language} - {answers_language}'
